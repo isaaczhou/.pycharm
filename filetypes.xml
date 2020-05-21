@@ -10,6 +10,7 @@
       <mapping pattern="db_2_model" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="Snakefile_prep" type="PLAIN_TEXT" />
+      <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping ext="fasta" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
