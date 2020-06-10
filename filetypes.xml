@@ -4,12 +4,12 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="Snakefile_main2" type="PLAIN_TEXT" />
-      <mapping pattern="Snakefile_mySample" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="db_2_model" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="Snakefile_main" type="PLAIN_TEXT" />
-      <mapping pattern="db_2_model" type="PLAIN_TEXT" />
+      <mapping pattern="Snakefile_mySample" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="Snakefile_prep" type="PLAIN_TEXT" />
       <mapping ext="fasta" type="PLAIN_TEXT" />
